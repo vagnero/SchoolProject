@@ -1,5 +1,6 @@
 # Projeto escolar (python)
 Um programa que calcula as medidas de tendência central, probabilidade binomial e probabilidade normal. Utilizando o módulo curses (como menu), foi feito por duas pessoas.
+
 Para rodá-lo basta copiar todos os arquivos .py e o arquivo .av em algum IDE.
 
 

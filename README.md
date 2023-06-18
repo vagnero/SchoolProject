@@ -16,7 +16,7 @@ Um programa que calcula as medidas de tendência central, probabilidade binomial
 
 
 
-=========================================================================================
+
 - READ (Ler). Neta opção o usuário seleciona algum arquivo em que queira exibir todos os dados dentro dele (mtc, bino ou txt):
 ![image](https://github.com/vagnero/SchoolProject/assets/37276509/22621190-ffcc-48d1-b164-8895964871d9)
 

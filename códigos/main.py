@@ -7,8 +7,8 @@
 #               VAGNER DA SILVA MATIAS   
 #  
 # Programa: CRUD Voltado para as cotações de ações
-#Entrada: criação dados e arquivos txt
-#Saída: Tabelas com os resultados dos cálculos
+#Entrada: Nome do título, nome da fonte, nome do arquivo txt e inclusão de dados
+#Saída: Tabelas com os resultados dos cálculos e relatório com essas tabelas
 
 # ================================ IMPORTS =====================================
 import Funcoes

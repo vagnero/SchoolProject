@@ -62,12 +62,15 @@ Na imagem abaixo, o usuário selecionou "apagar dados selecionados", então ele 
 - CALCULATE (Calcular). E por fim, no calculate o mesmo padrão é seguido. O usuário seleciona qual txt quer calcular e então é gerado uma tabela e um relatório.txt após o cálculo ser realizado:
 
 Cálculo de medidades de tendência central:
+
 ![image](https://github.com/vagnero/SchoolProject/assets/37276509/e3c95d47-b404-48f1-a5e2-1b7f091172ea)
 
 Cálculo de probabilidade binomial:
+
 ![image](https://github.com/vagnero/SchoolProject/assets/37276509/a6f1b211-c764-45d8-a5b0-d207c23a1b9d)
 
 Cálculo de probabilidade normal:
+
 ![image](https://github.com/vagnero/SchoolProject/assets/37276509/a29c9ab7-b7b6-4ea7-bbae-4729c6468b96)
 =========================================================================================
 

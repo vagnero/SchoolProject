@@ -6,11 +6,15 @@ Um programa que calcula as medidas de tendência central, probabilidade binomial
 ![image](https://github.com/vagnero/SchoolProject/assets/37276509/112948df-f143-41ca-9727-9f86bfbb89e3)
 =========================================================================================
 
+
+
 - CREATE (Criar). Nesta opção o usuário cria um arquivo txt do tipo mtc, bino e norm, fornecendo o nome do arquivo, da fonte e do título:
 =========================================================================================
 ![image](https://github.com/vagnero/SchoolProject/assets/37276509/566085c9-a8cd-41ba-a8f7-a06ec83ad9cb)
 ![image](https://github.com/vagnero/SchoolProject/assets/37276509/9a6d1418-fd8e-45d8-a3b3-239f53e3e9a0)
 =========================================================================================
+
+
 
 =========================================================================================
 - READ (Ler). Neta opção o usuário seleciona algum arquivo em que queira exibir todos os dados dentro dele (mtc, bino ou txt):
@@ -18,5 +22,8 @@ Um programa que calcula as medidas de tendência central, probabilidade binomial
 
 Após, todos os arquivos daquele tipo aparecem, o usuário seleciona algum e todos os dados serão exibidos:
 ![image](https://github.com/vagnero/SchoolProject/assets/37276509/5f3ddca7-3661-4712-bfba-e6e46c5ced4c)
+
 ![image](https://github.com/vagnero/SchoolProject/assets/37276509/0a1066fd-1648-4c16-bfb5-b7ed3a9fd835)
 =========================================================================================
+
+

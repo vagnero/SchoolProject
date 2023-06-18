@@ -71,4 +71,4 @@ Cálculo de probabilidade normal:
 ![image](https://github.com/vagnero/SchoolProject/assets/37276509/a29c9ab7-b7b6-4ea7-bbae-4729c6468b96)
 =========================================================================================
 
-Este programa foi criado com a ajuda de uma colega, como foi algo apressado e devido a nossa pouca experiência, há bastante desorganização no código. Foi uma boa experiência, pelo trabalho em equipe e também, pelo fato da manipulação de dados apenas nos arquivos txt. Muito foi aprendido e, no futuro, é esperado uma melhora nos próximos códigos que estão por vir... grato!
+Este programa foi criado com a ajuda de uma colega, como foi algo apressado e devido a nossa pouca experiência, há bastante desorganização no código. Foi uma boa experiência, pelo trabalho em equipe e também pelo fato da manipulação de dados ter sido feita apenas em arquivos ".txt". Muito foi aprendido e, no futuro, é esperado uma melhora nos próximos códigos que estão por vir... grato!

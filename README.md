@@ -27,3 +27,8 @@ Após, todos os arquivos daquele tipo aparecem, o usuário seleciona algum e tod
 =========================================================================================
 
 
+- DELETE (Apagar). Esta segue o mesmo padrão, uma lista de arquivos txt, onde o usuário seleciona se ele quer apagar um dado selecionado, todos os dados o arquivo completo, ou o relatório gerado:
+![image](https://github.com/vagnero/SchoolProject/assets/37276509/8456f52e-c0cd-464f-b056-f1a7422632b0)
+![image](https://github.com/vagnero/SchoolProject/assets/37276509/fe0db608-e0c5-4a79-82c9-2c49c3b598ea)
+![image](https://github.com/vagnero/SchoolProject/assets/37276509/bbfd0169-733c-4dbf-832b-074425fefc73)
+=========================================================================================

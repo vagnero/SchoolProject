@@ -780,13 +780,6 @@ class Crud:
                             print(tabela)
                         else:
                             print("Ocorreu um erro! Índice inexistente.")
-                        input("Pressione enter para voltar: ")
-
-
-teste = Crud()                                                                     # Instancie # Enquanto True, esse menu estará em loop.   
-
-# EnquaiarMenu(Lista_CRUDs,"Selecione abaixo as opções do crud desejadas utilizando as setas do teclado e pressione enter para confirmar:\n")  
-
-# Se o usuário escolher a opção criar, então outro loop será gerado.
+                        Funcoes.input_loop("Pressione qualquer tecla para voltar!")
 
 

@@ -28,9 +28,9 @@ Para rodá-lo basta copiar todos os arquivos .py e o arquivo .av em algum IDE.
 ![image](https://github.com/vagnero/SchoolProject/assets/37276509/22621190-ffcc-48d1-b164-8895964871d9)
 
 Após, todos os arquivos daquele tipo aparecem, o usuário seleciona algum e todos os dados serão exibidos:
-![image](https://github.com/vagnero/SchoolProject/assets/37276509/047a3487-962e-48fe-9f9b-8ee9ccc28705)
+![image](https://github.com/vagnero/SchoolProject/assets/37276509/f2153e05-ce76-42f9-b962-389958c485f5)
 
-![image](https://github.com/vagnero/SchoolProject/assets/37276509/0a1066fd-1648-4c16-bfb5-b7ed3a9fd835)
+![image](https://github.com/vagnero/SchoolProject/assets/37276509/047a3487-962e-48fe-9f9b-8ee9ccc28705)
 =========================================================================================
 
 =========================================================================================

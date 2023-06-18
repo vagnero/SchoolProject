@@ -9,7 +9,7 @@ Para rodá-lo basta copiar todos os arquivos .py e o arquivo .av em algum IDE.
 =========================================================================================
 
 - CREATE (Criar). Nesta opção o usuário cria um arquivo txt do tipo mtc, bino e norm, fornecendo o nome do arquivo, da fonte e do título:
-
+=========================================================================================
 ![image](https://github.com/vagnero/SchoolProject/assets/37276509/566085c9-a8cd-41ba-a8f7-a06ec83ad9cb)
 
 ![image](https://github.com/vagnero/SchoolProject/assets/37276509/9a6d1418-fd8e-45d8-a3b3-239f53e3e9a0)
@@ -23,7 +23,7 @@ Para rodá-lo basta copiar todos os arquivos .py e o arquivo .av em algum IDE.
 
 
 
-
+=========================================================================================
 - READ (Ler). Neta opção o usuário seleciona algum arquivo em que queira exibir todos os dados dentro dele (mtc, bino ou txt):
 ![image](https://github.com/vagnero/SchoolProject/assets/37276509/22621190-ffcc-48d1-b164-8895964871d9)
 

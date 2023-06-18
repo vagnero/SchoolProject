@@ -26,7 +26,7 @@ Um programa que calcula as medidas de tendência central, probabilidade binomial
 ![image](https://github.com/vagnero/SchoolProject/assets/37276509/22621190-ffcc-48d1-b164-8895964871d9)
 
 Após, todos os arquivos daquele tipo aparecem, o usuário seleciona algum e todos os dados serão exibidos:
-![image](https://github.com/vagnero/SchoolProject/assets/37276509/5f3ddca7-3661-4712-bfba-e6e46c5ced4c)
+![image](https://github.com/vagnero/SchoolProject/assets/37276509/047a3487-962e-48fe-9f9b-8ee9ccc28705)
 
 ![image](https://github.com/vagnero/SchoolProject/assets/37276509/0a1066fd-1648-4c16-bfb5-b7ed3a9fd835)
 =========================================================================================

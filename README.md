@@ -23,8 +23,9 @@ Para rodá-lo basta copiar todos os arquivos .py e o arquivo .av em algum IDE.
 
 
 
-=========================================================================================
+
 - READ (Ler). Neta opção o usuário seleciona algum arquivo em que queira exibir todos os dados dentro dele (mtc, bino ou txt):
+=========================================================================================
 ![image](https://github.com/vagnero/SchoolProject/assets/37276509/22621190-ffcc-48d1-b164-8895964871d9)
 
 Após, todos os arquivos daquele tipo aparecem, o usuário seleciona algum e todos os dados serão exibidos:

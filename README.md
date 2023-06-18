@@ -31,9 +31,23 @@ Após, todos os arquivos daquele tipo aparecem, o usuário seleciona algum e tod
 ![image](https://github.com/vagnero/SchoolProject/assets/37276509/0a1066fd-1648-4c16-bfb5-b7ed3a9fd835)
 =========================================================================================
 
+- UPDATE (Adicionar). Nesta opção o usuário seleciona que tipo de atualização ele quer fazer (adicionar dados ou alterar dados):
+![image](https://github.com/vagnero/SchoolProject/assets/37276509/e8cfbac1-5a12-41fd-884a-294942058d38)
+
+Caso ele queira alterar dados, ele escolhe o tipo do txt, daí aparece uma lista com os índices, ele seleciona qual deseja alterar e insere os novos valores.
+
+![image](https://github.com/vagnero/SchoolProject/assets/37276509/dcb95198-40e5-4aee-a9cb-3f8ec09352e6)
+
+Já na adição de valores, é selecionado o txt e surge o input sobre os valores a serem adicionados.
+
+![image](https://github.com/vagnero/SchoolProject/assets/37276509/54dfe6a9-173f-48c4-9de4-7a522023f3eb)
+=========================================================================================
+
+
 =========================================================================================
 - DELETE (Apagar). Esta segue o mesmo padrão, uma lista de arquivos txt, onde o usuário seleciona se ele quer apagar um dado selecionado, todos os dados o arquivo completo, ou o relatório gerado:
 ![image](https://github.com/vagnero/SchoolProject/assets/37276509/8456f52e-c0cd-464f-b056-f1a7422632b0)
 ![image](https://github.com/vagnero/SchoolProject/assets/37276509/fe0db608-e0c5-4a79-82c9-2c49c3b598ea)
+Na imagem abaixo, o usuário selecionou "apagar dados selecionados", então ele digita o índice do dado e aquele dado será excluído.
 ![image](https://github.com/vagnero/SchoolProject/assets/37276509/bbfd0169-733c-4dbf-832b-074425fefc73)
 =========================================================================================
